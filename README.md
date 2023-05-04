@@ -1,2 +1,2 @@
 # anime_audio_classification_model
-Based on MFCC, SVM / ANN / CNN.
+Extract features by MFCC, and then choose which model you would like to use among SVM, ANN, and CNN.
