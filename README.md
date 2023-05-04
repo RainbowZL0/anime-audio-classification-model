@@ -4,7 +4,7 @@ Extract features by MFCC, and then choose which model you would like to use amon
 This introduction will be completed after the codes are totally done.
 
 这个模型的目的是，便于把某一个动画角色的所有语音，与其他人的语音进行分类。
-详细步骤如下：
+用法步骤如下：
 1.
 2.
 3.
