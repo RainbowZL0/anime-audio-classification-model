@@ -3,7 +3,7 @@ This model aims to separate one character's audio files that you need from other
 Extract features by MFCC, and then choose which model you would like to use among SVM, ANN, and CNN.
 This introduction will be completed after the codes are totally done.
 
-这个模型的目的是，便于把某一个动画角色的所有语音，与其他人的语音进行分类。
+这个模型的目的是，在一集动画所有的角色台词中，分类出属于某个特定角色的台词。
 用法步骤如下：
 1.
 2.
